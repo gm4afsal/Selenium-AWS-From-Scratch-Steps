@@ -51,9 +51,9 @@ Goals and options: clean install
 
 
 
-AWS Configuration details:
+AWS Configuration details
+=========================
 
-==========================
 
 
 Login and create a key, keep it in local system.
