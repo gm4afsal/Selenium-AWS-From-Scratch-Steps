@@ -3,9 +3,9 @@
 
 Selenium- Maven – AWS EC2- Jenkins
 
-==============================
+
 Jenkins configuration details
-==============================
+
 
 Install Jenkins in AWS EC2
 
@@ -50,7 +50,6 @@ Goals and options: clean install
 
 
 
-=========================
 
 AWS Configuration details:
 
@@ -76,13 +75,12 @@ https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-a
 
 
 
-==========
+
 Set Path
 ==========
 
 
 $vim .bash_profile
-# User specific environment and startup progams
 JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk
 M2_HOME=/opt/maven/apache-maven-3.6.3
 M2=$M2_HOME/bin
